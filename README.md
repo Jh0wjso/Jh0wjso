@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jh0wjso
 - 👀 I’m interested in Worok and Learn about 
-- 🌱 I’m currently learning React and Data Science
+- 🌱 I’m currently learning React Native, NodeJs and Data Science
 - 💞️ I’m looking to collaborate on Data Science and Programming
 - 📫 How to reach me jhonatansilverio1258@gamil.com
 
