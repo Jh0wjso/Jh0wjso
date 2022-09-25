@@ -21,7 +21,7 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-C84734?style=for-the-badge&logo=oracle&logoColor=white" />
 </div><br/>
 
-I'm a brazilian guy cursing cumputer science at UENP :mortar_board: ! Currently i'm learning about web, mobile and data science is area that realy intrest me, but curently i'm only focus in to
+I'm a brazilian guy cursing cumputer science at UENP :mortar_board: ! Currently i'm learning about web(ReactJs, HTML5, CSS3), mobile(ReactNative, Flutter, Android Studio) and data science(Python3, R) is area that realy intrest me, but curently i'm only focus in to
 build a future for me and for my family.
 
 In this life I am passionate about football and I know that I can through technology and who knows, maybe change the world also. :earth_americas:
