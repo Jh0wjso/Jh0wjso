@@ -5,7 +5,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-0B84EE?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jhonatan.silverio.374)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0B84EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatansilverio/)
 
-![Jho GitHub stats](https://github-readme-stats.vercel.app/api?username=Jh0wjso&show_icons=true&theme=dracula&count_private=true)
+
 
 ## Technologies I Usually Use
 
