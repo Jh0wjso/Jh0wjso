@@ -17,6 +17,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-244D70?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-C84734?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
 I'm a brazilian guy cursing cumputer science at UENP :mortar_board: ! Currently i'm learning about web(ReactJs, HTML5, CSS3), mobile(ReactNative, Flutter, Android Studio) and data science(Python3, R) is area that realy intrest me, but curently i'm only focus in to
