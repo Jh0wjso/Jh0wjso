@@ -1,11 +1,9 @@
 ## Hey! What's up? Nice to see you here, I'm Jhonatan Silvério :punch:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhojso/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jho_JSO)
-[![Facebook](https://img.shields.io/badge/Facebook-0B84EE?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jhonatan.silverio.374)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0B84EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatansilverio/)
 
-![Jho GitHub stats](https://github-readme-stats.vercel.app/api?username=Jh0wjso&show_icons=true&theme=dracula&count_private=true)
+![Jho GitHub stats](https://github-readme-stats.vercel.app/api?username=Jh0wjso&show_icons=true&theme=dracula&count_private=false)
 
 ## Technologies I Usually Use
 
