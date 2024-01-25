@@ -17,7 +17,7 @@ I'm a brazilian guy cursing cumputer science at UENP :mortar_board: ! Currently 
   <br>
 </p>
 
-<p align="center" color="blue"> 
+<p align="center"> 
   Visitor Number<br>
   <img src="https://profile-counter.glitch.me/Jh0wjso/count.svg" />
 </p>
