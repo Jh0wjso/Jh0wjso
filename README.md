@@ -17,12 +17,7 @@ I'm a brazilian guy cursing cumputer science at UENP :mortar_board: ! Currently 
   <br>
 </p>
 
-<p align="center"> 
+<p align="center" color="blue"> 
   Visitor Number<br>
   <img src="https://profile-counter.glitch.me/Jh0wjso/count.svg" />
 </p>
-
-<!---
-Jh0wjso/Jh0wjso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
