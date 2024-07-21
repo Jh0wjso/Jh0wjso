@@ -1,9 +1,3 @@
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+what's up!+👋;Hi!+i'm+Jhontan!!&center=true&size=30">
-  </a>
-</h1>
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhojso/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0B84EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatansilverio/)
 
